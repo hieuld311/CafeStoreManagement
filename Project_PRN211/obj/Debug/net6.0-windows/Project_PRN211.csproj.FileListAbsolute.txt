@@ -1,0 +1,285 @@
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.exe
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.deps.json
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.runtimeconfig.json
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.pdb
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.AssemblyReference.cache
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmLogin.resources
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.GenerateResource.cache
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfoInputs.cache
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfo.cs
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CoreCompileInputs.cache
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\refint\Project_PRN211.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.pdb
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.genruntimeconfig.cache
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\ref\Project_PRN211.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmTable.resources
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAccountProfile.resources
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAdmin.resources
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LinhTinh\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CopyComplete
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.exe
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.deps.json
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.runtimeconfig.json
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.pdb
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.AssemblyReference.cache
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAccountProfile.resources
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAdmin.resources
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmLogin.resources
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmTable.resources
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.GenerateResource.cache
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfoInputs.cache
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfo.cs
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CoreCompileInputs.cache
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CopyComplete
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\refint\Project_PRN211.dll
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.pdb
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.genruntimeconfig.cache
+F:\PRN211\Project\Project_PRN211\Project_PRN211\obj\Debug\net6.0-windows\ref\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.exe
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.deps.json
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.runtimeconfig.json
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.AssemblyReference.cache
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAccountProfile.resources
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAdmin.resources
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmLogin.resources
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmTable.resources
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.GenerateResource.cache
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfoInputs.cache
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfo.cs
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CoreCompileInputs.cache
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CopyComplete
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\refint\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.genruntimeconfig.cache
+D:\FPT Daze\SE5\Project PRN\Restaurant-Management-master\Project_PRN211\obj\Debug\net6.0-windows\ref\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.exe
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.deps.json
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.runtimeconfig.json
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.AssemblyReference.cache
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAccountProfile.resources
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAdmin.resources
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmLogin.resources
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmTable.resources
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.GenerateResource.cache
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfoInputs.cache
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfo.cs
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CoreCompileInputs.cache
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CopyComplete
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\refint\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.genruntimeconfig.cache
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\ref\Project_PRN211.dll
+D:\FPT Daze\SE5\Project PRN\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.exe
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.deps.json
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.runtimeconfig.json
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.AssemblyReference.cache
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAccountProfile.resources
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmAdmin.resources
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmLogin.resources
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.frmTable.resources
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.GenerateResource.cache
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfoInputs.cache
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.AssemblyInfo.cs
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CoreCompileInputs.cache
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.csproj.CopyComplete
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\refint\Project_PRN211.dll
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.pdb
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\Project_PRN211.genruntimeconfig.cache
+D:\FPT Daze\SE5\PRN211\PRN_Project\Project_PRN211\obj\Debug\net6.0-windows\ref\Project_PRN211.dll
